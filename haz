@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>animale</title>
+    <style>
+        .blue {color:blueviolet
+        }
+        #celMaiimportant {color:mediumpurple
+        }
+        .shorty {
+            display: flex;
+            flex-direction: column-reverse;
+            width: 350px;
+            height: 350;
 
+        }
+        .diva {
+            background-color: yellowgreen;
+        }
+        .container {
+            display: flex;
+            flex-direction: row-reverse;
+        }
+    </style>
+</head>
+<body>
+    <h1>chiar m-am distrat facand aceasta tema, chiar daca deadline ul e azi</h1>
+<p>am facut asta din dorinta de a atasa poze din arhiva personala cu animalutele mele</p>
+<p>incercai ceva, dar n a iesit asa cum mi am propus</p>
+<img src="
+[[File:Gnome-face-sad-2011-12-05.jpg|Gnome-face-sad-2011-12-05]]
+"
+</body>
+</html>
